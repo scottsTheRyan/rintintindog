@@ -1,2 +1,1 @@
-# rintintindog
-It's time to date, dawgs.
+TinDog Starting Files
